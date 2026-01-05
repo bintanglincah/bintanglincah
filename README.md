@@ -1,58 +1,57 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/bintanglincah" target="_blank">Bintang</a> 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center"> 
-  <samp> 
-    System Analyst | Informatics Student | Web Developer
-  </samp>
-</p>
-
-<h3 align="left">🚀 About Me</h3>
-<p align="left">
-Saya mahasiswa Informatika yang tertarik pada <b>Data Science</b> dan <b>Web Development</b>. 
-Saat ini sedang mengembangkan <b>Scope 1.0</b> untuk membantu siswa memprediksi peluang masuk PTN.
-
-- 🔭 I’m currently working on **Scope 1.0 (SNBP Prediction System)**
-- 🌱 I’m currently learning **Python, Node.js, & Algorithms**
-- ⚡ Fun fact: Suka minum kopi hitam tanpa gula
-</p>
-
-<h3 align="left">🔥 Featured Projects</h3>
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Scope 1.0](https://scopesmanic.netlify.app)** | Sistem Prediksi Kelulusan SNBP & Analisis Data Siswa | `JS` `HTML` `Math Logic` |
-
-<h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-</p>
-
-### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bintanglincah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250" style="object-fit:cover; border-radius:10px" />
+  
+  <h1 align="center">Hi there, I'm <a href="https://github.com/bintanglincah">Bintang</a> 👋</h1>
+
+  <p align="center">
+    <b>Informatics Student @ Universitas Diponegoro</b><br>
+    <i>"Navigate Your Journey: Charting Dreams, Building The Future"</i>
+  </p>
+
+  <p align="center">
+    <a href="https://instagram.com/USERNAME_IG_KAMU">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:emailmu@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://linkedin.com/in/USERNAME_LINKEDIN">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
 
-### 🔥 Coding Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bintanglincah&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+---
+
+### 🚀 About Me
+Saya mahasiswa Informatika semester 1 yang sedang fokus mendalami **Web Development** dan **Algoritma**. Saat ini sedang mengembangkan sistem prediksi berbasis data untuk membantu siswa SNBP.
+
+- 🔭 Project Utama: **[Scope 1.0](https://scopesmanic.netlify.app)**
+- 🌱 Sedang Belajar: **Python, JavaScript, Data Logic**
+- ⚡ Interest: **Game Dev & AI**
+
+---
+
+### 🔥 Featured Projects
+| Project Name | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Scope 1.0](https://scopesmanic.netlify.app)** | **Sistem Prediksi SNBP**<br>Algoritma hitung peluang lolos PTN berdasarkan bobot nilai & alumni. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | 🟢 **Active** |
+| **SNBP Database** | Koleksi data passing grade & daya tampung PTN 2024-2026. | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) | 🟡 **Dev** |
+
+---
+
+### 🛠️ Tech Stack & Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-### 💻 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bintanglincah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
