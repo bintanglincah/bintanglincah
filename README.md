@@ -42,8 +42,17 @@ Saat ini sedang mengembangkan <b>Scope 1.0</b> untuk membantu siswa memprediksi 
   </a> 
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
+### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bintanglincah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintanglincah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bintanglincah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+### 🔥 Coding Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bintanglincah&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+### 💻 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bintanglincah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
