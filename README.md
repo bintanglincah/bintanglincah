@@ -1,21 +1,20 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250" style="object-fit:cover; border-radius:10px" />
+  <img src="https://media1.tenor.com/m/gHQ5Ng0RmEsAAAAd/persona-3-reload.gif" width="100%" height="250" style="object-fit:cover; border-radius:10px" />
   
   <h1 align="center">Hi there, I'm <a href="https://github.com/bintanglincah">Bintang</a> 👋</h1>
 
   <p align="center">
     <b>Informatics Student @ Universitas Diponegoro</b><br>
-    <i>"Navigate Your Journey: Charting Dreams, Building The Future"</i>
   </p>
 
   <p align="center">
-    <a href="https://instagram.com/USERNAME_IG_KAMU">
+    <a href="https://instagram.com/bntang.ln">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="mailto:emailmu@gmail.com">
+    <a href="mailto:bintanglincahrok@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/USERNAME_LINKEDIN">
+    <a href="https://www.linkedin.com/in/bintang-anggaraksa-lincah-nugraha-6b9693385/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
@@ -24,7 +23,7 @@
 ---
 
 ### 🚀 About Me
-Saya mahasiswa Informatika semester 1 yang sedang fokus mendalami **Web Development** dan **Algoritma**. Saat ini sedang mengembangkan sistem prediksi berbasis data untuk membantu siswa SNBP.
+Saya mahasiswa Informatika semester 1 yang sedang fokus mendalami **Web Development**, **AI**, dan **Algoritma**. Saat ini sedang mengembangkan sistem prediksi berbasis data untuk membantu siswa SNBP.
 
 - 🔭 Project Utama: **[Scope 1.0](https://scopesmanic.netlify.app)**
 - 🌱 Sedang Belajar: **Python, JavaScript, Data Logic**
