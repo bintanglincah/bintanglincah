@@ -9,19 +9,21 @@
 
 <h3 align="left">🚀 About Me</h3>
 <p align="left">
-Saya mahasiswa Informatika yang tertarik pada <b>Data Science</b> dan <b>Web Development</b>. Saat ini sedang mengembangkan <b>Scope 1.0</b> (Sistem Prediksi SNBP).
+Saya mahasiswa Informatika yang tertarik pada <b>Data Science</b> dan <b>Web Development</b>. 
+Saat ini sedang mengembangkan <b>Scope 1.0</b> untuk membantu siswa memprediksi peluang masuk PTN.
 
 - 🔭 I’m currently working on **Scope 1.0 (SNBP Prediction System)**
 - 🌱 I’m currently learning **Python, Node.js, & Algorithms**
-- 💬 Ask me about **HTML, CSS, JS, & Data Logic**
-- 📫 How to reach me: **emailmu@gmail.com**
+- ⚡ Fun fact: Suka minum kopi hitam tanpa gula
 </p>
-### 🔥 Featured Projects
+
+<h3 align="left">🔥 Featured Projects</h3>
+
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Scope 1.0](scopesmanic.netlify.app)** | Sistem Prediksi Kelulusan SNBP & Analisis Data Siswa | `JS` `HTML` `Math Logic` |
-<h3 align="left">🛠️ Languages and Tools</h3>
+| **[Scope 1.0](https://scopesmanic.netlify.app)** | Sistem Prediksi Kelulusan SNBP & Analisis Data Siswa | `JS` `HTML` `Math Logic` |
 
+<h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -42,6 +44,6 @@ Saya mahasiswa Informatika yang tertarik pada <b>Data Science</b> dan <b>Web Dev
 
 <h3 align="left">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bintanglincah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bintanglincah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
