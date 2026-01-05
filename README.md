@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/gHQ5Ng0RmEsAAAAd/persona-3-reload.gif" width="100%" height="250" style="object-fit:cover; border-radius:10px" />
   
-  <h1 align="center">Hi there, I'm <a href="https://github.com/bintanglincah">Bintang</a> 👋</h1>
+  <h1 align="center">Hi there, I'm <a href="https://github.com/bintanglincah">Bintang</a></h1>
 
   <p align="center">
-    <b>Informatics Student @ Universitas Diponegoro</b><br>
+    <b>Informatics/Computer Scientist Student at Universitas Diponegoro</b><br>
   </p>
 
   <p align="center">
@@ -22,16 +22,16 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 Saya mahasiswa Informatika semester 1 yang sedang fokus mendalami **Web Development**, **AI**, dan **Algoritma**. Saat ini sedang mengembangkan sistem prediksi berbasis data untuk membantu siswa SNBP.
 
-- 🔭 Project Utama: **[Scope 1.0](https://scopesmanic.netlify.app)**
-- 🌱 Sedang Belajar: **Python, JavaScript, Data Logic**
-- ⚡ Interest: **Game Dev & AI**
+-  Project Utama: **[Scope 1.0](https://scopesmanic.netlify.app)**
+-  Sedang Belajar: **Python, JavaScript, Data Logic**
+-  Interest: **Game Dev & AI**
 
 ---
 
-### 🔥 Featured Projects
+###  Featured Projects
 | Project Name | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
 | **[Scope 1.0](https://scopesmanic.netlify.app)** | **Sistem Prediksi SNBP**<br>Algoritma hitung peluang lolos PTN berdasarkan bobot nilai & alumni. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | 🟢 **Active** |
@@ -39,7 +39,7 @@ Saya mahasiswa Informatika semester 1 yang sedang fokus mendalami **Web Developm
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
